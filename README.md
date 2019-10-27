@@ -22,4 +22,4 @@ This Movie Trailer Website grabs all the movie information from [OMDb API](http:
 ## View of the Website
 
 
-![Preview](Movie_Trailer_Website.gif)
+![](Movie_Trailer_Website.gif)
