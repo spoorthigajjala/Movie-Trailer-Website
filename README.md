@@ -17,3 +17,7 @@ This Movie Trailer Website grabs all the movie information from [OMDb API](http:
 **Step 4:** Run the following command
 
 'python movie_centre.py'
+
+
+##View of the Website
+![](Movie_Trailer_Website.gif)
